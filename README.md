@@ -6,7 +6,7 @@ All the other files that I have used for this project is inside the hangman man 
 
 
 Open the hangman folder.
-open hang_man.py
+open hang_man_main.py
 The code hanging_man.py contains the drawing of the hanging man, the base, rope and the support.
 Run the code on your IDE.
 
